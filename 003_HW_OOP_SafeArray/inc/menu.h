@@ -2,15 +2,8 @@
 #ifndef MENU_H
 #define MENU_H
 
-#ifndef _IOSTREAM_H_
-#define _IOSTREAM_H_
-    #include <iostream>
-#endif // _IOSTREAM_H_
-
-#ifndef _CHRONO_H_
-#define _CHRONO_H_
-    #include <chrono>
-#endif // _CHRONO_H_
+#include <iostream>
+#include <chrono>
 
 #include "safearray.h"
 
