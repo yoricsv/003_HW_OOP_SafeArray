@@ -2,20 +2,9 @@
 #ifndef SAFEARRAY_H
 #define SAFEARRAY_H
 
-#ifndef _IOSTREAM_H_
-#define _IOSTREAM_H_
-    #include <iostream>
-#endif // _IOSTREAM_H_
-
-#ifndef _CASSERT_H_
-#define _CASSERT_H_
-    #include <cassert>
-#endif // _CASSERT_H_
-
-#ifndef _CTIME_H_
-#define _CTIME_H_
-    #include <ctime>
-#endif // _CTIME_H_
+#include <iostream>
+#include <cassert>
+#include <ctime>
 
 //#define USE_RANDOM
 #ifndef USE_RANDOM
